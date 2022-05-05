@@ -5,7 +5,8 @@
 ul {
   list-style: none;
   font-family: "Gideon Roman";
-  padding-inline-start: 10px;
+  padding-inline-start: 0px;
+  font-weight: 700;
 }
 
 body {
@@ -18,13 +19,13 @@ body {
 h1 {
   font-family: "Romanesco";
   text-align: center;
-  font-size: 3.5rem;
+  font-size: 4.5rem;
   border: #F00020 3px solid;
 }
 
 h2 {
   font-family: "Gideon Roman";
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   border-bottom: #F00020 2px solid;
   width: fit-content;
 }
