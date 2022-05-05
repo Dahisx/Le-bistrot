@@ -9,18 +9,22 @@ h1 {
     font-family: 'Romanesco';
     text-align: center;
     font-size: $font-large;
-    border: white 3px solid;
+    border: $primary-color 3px solid;
 }
 
 
 h2 {
-    font-family: 'Romanesco';
+    font-family: 'Gideon Roman';
     font-size: $font-medium;
+    border-bottom: $primary-color 2px solid;
+    width: fit-content;
 }
 
 p {
     font-family: 'Gideon Roman';
     font-weight: 700;
+    margin-top: 5px;
+    margin-bottom: 0;
 }
 
 span {
